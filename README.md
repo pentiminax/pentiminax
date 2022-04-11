@@ -1,4 +1,4 @@
-Hi 👋 My name is Tanguy Lemarié
+Hi 👋 My name is Tanguy
 ===============================
 
 Full Stack Web Developer
