@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 * 🌍  I'm based in Rouen
 * ✉️  You can contact me at [tanguy.lemarie.youtube@outlook.fr](mailto:tanguy.lemarie.youtube@outlook.fr)
-* 🚀  I'm currently working on [SII](http://sii-group.com)
+* 🚀  I'm currently working at [SII](http://sii-group.com)
 * 🧠  I'm learning the Rust language
 
 <a href="https://www.twitter.com/Pentiminax" target="_blank" rel="noreferrer"><img
