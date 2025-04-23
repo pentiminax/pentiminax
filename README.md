@@ -3,7 +3,8 @@ Hi 👋 My name is Tanguy
 
 Projects
 ------------------------
-* 🛠️  I'm currently working on the following open source projects:
+I'm currently working on the following open source projects:
+
 * [UX Editor](https://github.com/pentiminax/ux-editor) – A lightweight and extensible markdown editor
 * [UX DataTables](https://github.com/pentiminax/ux-datatables) – A modern DataTables wrapper for Symfony UX
 
