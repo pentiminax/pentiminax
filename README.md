@@ -1,13 +1,18 @@
 Hi 👋 My name is Tanguy
 ===============================
 
+Projects
+------------------------
+* 🛠️  I'm currently working on the following open source projects:
+* [UX Editor](https://github.com/pentiminax/ux-editor) – A lightweight and extensible markdown editor
+* [UX DataTables](https://github.com/pentiminax/ux-datatables) – A modern DataTables wrapper for Symfony UX
+
 Full Stack Web Developer
 ------------------------
 
 * 🌍  I'm based in Rouen
 * ✉️  You can contact me at [tanguy.lemarie.youtube@outlook.fr](mailto:tanguy.lemarie.youtube@outlook.fr)
 * 🚀  I'm currently working at [Skaleet](https://skaleet.com)
-* 🧠  I'm learning the Rust language
 
 <a href="https://www.twitter.com/Pentiminax" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Pentiminax?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
