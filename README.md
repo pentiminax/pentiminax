@@ -7,6 +7,7 @@ I'm currently working on the following open source projects:
 
 * [UX Editor](https://github.com/pentiminax/ux-editor) – A lightweight and extensible markdown editor
 * [UX DataTables](https://github.com/pentiminax/ux-datatables) – A modern DataTables wrapper for Symfony UX
+* [UX SweetAlert](https://github.com/pentiminax/ux-sweet-alert) – A SweetAlert2 integration for Symfony
 
 Full Stack Web Developer
 ------------------------
